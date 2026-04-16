@@ -73,6 +73,7 @@ A plataforma foi pensada para ser intuitiva, eficiente e escalável, podendo ser
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-1D72F3?logo=opensearch&logoColor=white)
 
+## Diagrama de Sequência 
 ```mermaid
 sequenceDiagram
     participant U as Usuário (Funcionário/Admin)
