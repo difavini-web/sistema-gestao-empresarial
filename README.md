@@ -125,7 +125,7 @@ sequenceDiagram
 
 [Caso de uso](github.com/LeonardoMartins08/sistema-gestao-empresarial/blob/main/Engenharia%20de%20Software/Caso%20de%20Uso.png?raw=true)
 
-[FIgma](https://www.figma.com/design/vJMYNJpKj1LE75tXEMhW3l/Sem-t%C3%ADtulo?node-id=0-1&p=f&t=fPqodl5ZD0n4uauv-0)
+
 
 
 
