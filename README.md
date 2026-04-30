@@ -126,7 +126,9 @@ sequenceDiagram
 [Caso de uso](github.com/LeonardoMartins08/sistema-gestao-empresarial/blob/main/Engenharia%20de%20Software/Caso%20de%20Uso.png?raw=true)
 
 [Figma](https://www.figma.com/make/uHUuGhyVEp9BeUHooPYxQl/Loja-com-estoque-e-faturamento?p=f&t=ASkgMtrTasQzfoQn-0&fullscreen=1)
-
+dashboard: Enzo Longo Bardo
+estoque: Diego Favini Giacomo
+Faturamneto: Mateus de Freitas Martins
 
 
 
