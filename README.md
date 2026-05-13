@@ -129,7 +129,7 @@ sequenceDiagram
  - dashboard: Enzo Longo Bardo
  - estoque: Diego Favini Giacomo
  - Faturamento: Mateus de Freitas Martins
- - [Login](https://www.figma.com/proto/fUyL82Mw9xp34JdIpob9gz/Sem-t%C3%ADtulo?node-id=3-15&p=f&t=W0ji9I3bZjQFR7os-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1): Leonardo Martins Da Silveira 
+ - [Login](https://www.figma.com/proto/LjXi6HdJOQkqQsmeUG9KCs/Sem-t%C3%ADtulo?node-id=6-6&t=2qnMWCIT7GydvBjY-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1): Leonardo Martins Da Silveira 
 
 
 
